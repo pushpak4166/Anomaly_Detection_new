@@ -1,0 +1,11 @@
+1) Regression_model.ipynb
+	model:  regression_model.sav
+	
+2) Regression_model_2.ipynb 
+	model:  regression_model_2.sav
+		scalar_values_2.sav
+
+3) Anomaly_using_N2.ipynb
+	model:  anomaly_detection_model_final.h5 and .tflite
+
+	
