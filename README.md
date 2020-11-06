@@ -1,4 +1,4 @@
-# Anomaly-detection
+# Anomaly-detection 
 ## Detecting anomalies using Z-score and TQR 
 
 ### Using Z score
@@ -14,3 +14,9 @@
         iii> let 25 and 75 percentile values be x and y respectively 
 	iv>  finding IQR = y-x  
 	ii>  values not in the range (x-1.5*IQR,y+1.5*IQR) are outlier.
+
+## Detecting anomaly using LOF and Isolation Forest algorithms
+## Detecting anomaly using neural network model 
+
+### Note: 
+	have a look at 'read_this' file
