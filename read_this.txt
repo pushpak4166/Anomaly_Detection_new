@@ -8,4 +8,7 @@
 3) Anomaly_using_N2.ipynb
 	model:  anomaly_detection_model_final.h5 and .tflite
 
+4) Anomaly_using_NN_new_improved.ipynb
+	not yet complete....
+
 	
