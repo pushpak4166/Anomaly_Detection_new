@@ -9,6 +9,7 @@
 	model:  anomaly_detection_model_final.h5 and .tflite
 
 4) Anomaly_using_NN_new_improved.ipynb
-	not yet complete....
+	model:  anomaly_in_sensors_model.h5   
+	accuracy: approx. 95%  
 
 	
