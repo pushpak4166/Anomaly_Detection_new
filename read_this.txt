@@ -11,5 +11,6 @@
 4) Anomaly_using_NN_new_improved.ipynb
 	model:  anomaly_in_sensors_model.h5   
 	accuracy: approx. 95%  
+	this model is for detecting anomaly in each sensor
 
 	
