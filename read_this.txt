@@ -6,7 +6,8 @@
 		scalar_values_2.sav
 
 3) Anomaly_using_N2.ipynb
-	model:  anomaly_detection_model_final.h5 and .tflite
+	model:  anomaly_detection_model_final.h5 and .tflite 
+	note: For predicting whether anomaly is present.
 
 4) Anomaly_using_NN_new_improved.ipynb
 	model:  anomaly_in_sensors_model.h5   
