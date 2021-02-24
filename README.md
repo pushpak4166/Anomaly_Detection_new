@@ -19,4 +19,4 @@
 ## Detecting anomaly using neural network model 
 
 ### Note: 
-	have a look at 'read_this' file
+	 have a look at 'read_this' file
