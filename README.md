@@ -1,7 +1,7 @@
 # Anomaly-detection 
 ## Detecting anomalies using Z-score and TQR 
 
-###  Using Z score
+### Using Z score
 
 	i>   finding mean and standard deviation of the dataset
 	ii>  finding Z score, Z = (X-u)/sigma 
