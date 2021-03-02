@@ -1,4 +1,4 @@
- # Anomaly-detection 
+# Anomaly-detection 
 ## Detecting anomalies using Z-score and TQR 
 
 ### Using Z score
