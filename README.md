@@ -28,7 +28,7 @@
 	model:  regression_model_2.sav
 		scalar_values_2.sav
 
-3) Anomaly_using_N2.ipynb
+3) Anomaly_using_NN_2.ipynb
 	model:  anomaly_detection_model_final.h5 and .tflite 
 	note: For predicting whether anomaly is present.
 
