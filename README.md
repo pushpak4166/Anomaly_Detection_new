@@ -40,7 +40,7 @@
 	accuracy: ~95%  
 	note: this model is for detecting anomaly in each sensor(3 sensors)
 
-6) Anomaly_detection_in_each_sensor.ipynb  **********
+6) Anomaly_detection_in_each_sensor.ipynb  ***********
 	model: anomaly_in_4_sensors_model.h5  and .tflite
 	accuracy: ~98%
 	note: this model is for detecting anomaly in each sensor(4 sensors)	
