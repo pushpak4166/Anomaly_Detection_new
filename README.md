@@ -21,7 +21,7 @@
  ### Note: 
 	 have a look at 'read_this' file
 ### 
-1) Anamoly Detection.ipynb  **********
+1) Anamoly Detection.ipynb  ***********
 	LOF & IF
 	
 2) Regression_model.ipynb
