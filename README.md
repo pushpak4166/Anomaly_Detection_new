@@ -21,7 +21,7 @@
  ### Note: 
 	 have a look at 'read_this' file
 ### 
-1) Anamoly Detection.ipynb  **********
+1) Anamoly Detection.ipynb  ***********
 	LOF & IF
 	
 2) Regression_model.ipynb
@@ -31,7 +31,7 @@
 	model:  regression_model_2.sav
 		scalar_values_2.sav
 
-4) Anomaly_using_NN_2.ipynb  *********
+4) Anomaly_using_NN_2.ipynb  **********
 	model:  anomaly_detection_model_final.h5 and .tflite 
 	note: For predicting whether anomaly is present.
 
