@@ -18,9 +18,9 @@
 ## Detecting anomaly using LOF and Isolation Forest algorithms
 ## Detecting anomaly using neural network model 
 
- ### Note: 
+### Note: 
 	 have a look at 'read_this' file
-### 
+
 ####1) Anamoly Detection.ipynb  **********
 	LOF & IF
 	
