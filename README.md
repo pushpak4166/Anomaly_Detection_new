@@ -18,9 +18,6 @@
 ## Detecting anomaly using LOF and Isolation Forest algorithms
 ## Detecting anomaly using neural network model 
 
-### Note: 
-	 have a look at 'read_this' file
-
 #### Anamoly Detection.ipynb  *
 	LOF & IF
 	
@@ -44,3 +41,6 @@
 	model: anomaly_in_4_sensors_model.h5  and .tflite
 	accuracy: ~98%
 	note: this model is for detecting anomaly in each sensor(4 sensors)	
+	
+###### Note: 
+	 have a look at 'read_this' file
