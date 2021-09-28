@@ -21,26 +21,26 @@
 ### Note: 
 	 have a look at 'read_this' file
 
-#### Anamoly Detection.ipynb  **********
+#### Anamoly Detection.ipynb  *
 	LOF & IF
 	
-2) Regression_model.ipynb
+#### Regression_model.ipynb
 	model:  regression_model.sav
 	
-3) Regression_model_2.ipynb 
+#### Regression_model_2.ipynb 
 	model:  regression_model_2.sav
 		scalar_values_2.sav
 
-4) Anomaly_using_NN_2.ipynb  *********
+#### Anomaly_using_NN_2.ipynb  *
 	model:  anomaly_detection_model_final.h5 and .tflite 
 	note: For predicting whether anomaly is present.
 
-5) Anomaly_using_NN_new_improved.ipynb
+#### Anomaly_using_NN_new_improved.ipynb
 	model:  anomaly_in_sensors_model.h5   
 	accuracy: ~95%  
 	note: this model is for detecting anomaly in each sensor(3 sensors)
 
-6) Anomaly_detection_in_each_sensor.ipynb  *********
+#### Anomaly_detection_in_each_sensor.ipynb  *
 	model: anomaly_in_4_sensors_model.h5  and .tflite
 	accuracy: ~98%
 	note: this model is for detecting anomaly in each sensor(4 sensors)	
