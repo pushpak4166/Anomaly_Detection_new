@@ -7,7 +7,6 @@
 	ii>  finding Z score, Z = (X-u)/sigma 
 	iii> values for which Z > Threshold are outliers
 
-
 ### Using IQR:- 
 	i>   interquantile range works on percentile
 	ii>  sort the data in increasing order
